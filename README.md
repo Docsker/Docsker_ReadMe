@@ -57,9 +57,7 @@ Docsker
 
 
 ### 📋 요구사항 정의서
-![서비스 기획서](https://github.com/Docsker/Docsker_Build/blob/fe1e06a2f24e5245dc4546d0bcfd46366c37719a/public/BMC.png)
-
-##### [서비스 기획서](https://crystal-booth-585.notion.site/Business-Model-Canvas-V2-1a6877f01486805cb3fbddc31690d5c4)
+![서비스 기획서](https://github.com/Docsker/Docsker_Build/blob/fe1e06a2f24e5245dc4546d0bcfd46366c37719a/public/BMC.png기](https://crystal-booth-585.notion.site/Business-Model-Canvas-V2-1a6877f01486805cb3fbddc31690d5c4)
 
 
 ---
@@ -85,28 +83,29 @@ Docsker
 ### 🌐 화면 정의서
    <details>
       <summary><b>Main Page</b></summary>
-      ![메인페이지](https://github.com/Docsker/Docsker_Build/blob/91243ef1e001bb87b8ebf6df853507c7f0707d86/public/main.png)
+      <img src="https://github.com/Docsker/Docsker_Build/blob/91243ef1e001bb87b8ebf6df853507c7f0707d86/public/main.png">
    </details>
    <details>
       <summary><b>Log In/ Register</b></summary>
-     ![로그인](https://github.com/Docsker/Docsker_Build/blob/91243ef1e001bb87b8ebf6df853507c7f0707d86/public/login.png)
-     ![회원가입](https://github.com/Docsker/Docsker_Build/blob/91243ef1e001bb87b8ebf6df853507c7f0707d86/public/register.png)
+     <img src="https://github.com/Docsker/Docsker_Build/blob/91243ef1e001bb87b8ebf6df853507c7f0707d86/public/login.png">
+     <img src="https://github.com/Docsker/Docsker_Build/blob/91243ef1e001bb87b8ebf6df853507c7f0707d86/public/register.png">
  </details>
    <details>
       <summary><b>Documents Page</b></summary>
-     ![문서페이지](https://github.com/Docsker/Docsker_Build/blob/91243ef1e001bb87b8ebf6df853507c7f0707d86/public/register.png)
+      <img src="https://github.com/Docsker/Docsker_Build/blob/91243ef1e001bb87b8ebf6df853507c7f0707d86/public/documents.png">
  </details>
    <details>
       <summary><b>Tech Blog Page</b></summary>
+      <img src="https://github.com/Docsker/Docsker_Build/blob/91243ef1e001bb87b8ebf6df853507c7f0707d86/public/register.png">
       ![기술블로그페이지](https://github.com/Docsker/Docsker_Build/blob/91243ef1e001bb87b8ebf6df853507c7f0707d86/public/register.png)
    </details>
    <details>
       <summary><b>Today-Question Page</b></summary>
-      ![오늘의질문페이지](https://github.com/Docsker/Docsker_Build/blob/91243ef1e001bb87b8ebf6df853507c7f0707d86/public/today-question.png)
+      <img src="https://github.com/Docsker/Docsker_Build/blob/91243ef1e001bb87b8ebf6df853507c7f0707d86/public/today-question.png">
    </details>
    <details>
       <summary><b>My Page</b></summary>
-      ![마이페이지](https://github.com/Docsker/Docsker_Build/blob/91243ef1e001bb87b8ebf6df853507c7f0707d86/public/mypage.png)
+      <img src="https://github.com/Docsker/Docsker_Build/blob/91243ef1e001bb87b8ebf6df853507c7f0707d86/public/mypage.png">
    </details>
 
 
