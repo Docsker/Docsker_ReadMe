@@ -4,7 +4,7 @@ Docsker
 
 ---
 
-## 👥 팀원
+### 👥 팀원
 | 이름       | GitHub                                  |
 |------------|-----------------------------------------|
 | 장현진     | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/CoderJDan) |
@@ -15,7 +15,7 @@ Docsker
 
 ---
 
-## 🔧 기술 스택
+### 🔧 기술 스택
 | 분야          | 기술 스택                |
 |---------------|--------------------------|
 | **Front-End** | <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DE1E?style=for-the-badge&logo=JavaScript&logoColor=white"> |
@@ -23,7 +23,7 @@ Docsker
 
 ---
 
-## 🛠️ 개발 도구
+### 🛠️ 개발 도구
 | IDE          | 버전 관리                |
 |---------------|--------------------------|
 | <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> | <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&amp;logo=Github&amp;logoColor=white" alt="Github Badge" /> |
@@ -39,6 +39,79 @@ Docsker
 ![ERD](https://github.com/Docsker/Docsker_Build/blob/dbb7d05e58cdae1d25cc118f19909d4ab2874e6c/public/erd.png)
 
 ---
+
+### 📋 서비스 기획서
+![서비스 기획서](https://github.com/Docsker/Docsker_Build/blob/fe1e06a2f24e5245dc4546d0bcfd46366c37719a/public/BMC.png)
+
+##### [서비스 기획서](https://crystal-booth-585.notion.site/Business-Model-Canvas-V2-1a6877f01486805cb3fbddc31690d5c4)
+
+---
+
+### 📋 요구사항 정의서
+![서비스 기획서](https://github.com/Docsker/Docsker_Build/blob/fe1e06a2f24e5245dc4546d0bcfd46366c37719a/public/BMC.png)
+
+##### [서비스 기획서](https://crystal-booth-585.notion.site/Business-Model-Canvas-V2-1a6877f01486805cb3fbddc31690d5c4)
+
+---
+
+### 📋 스토리 보드
+![서비스 기획서](https://github.com/Docsker/Docsker_Build/blob/fe1e06a2f24e5245dc4546d0bcfd46366c37719a/public/BMC.png)
+
+##### [스토리 보드](https://crystal-booth-585.notion.site/User-Story-V1-1ad877f014868051bce4d137b717ff64)
+
+---
+
+## ✅ WBS(Work Breakdown Structure)
+![MungSquare_mini - BE_테스트 명세서-1](https://github.com/user-attachments/assets/af4ac3ee-f25f-4d21-b03a-5fcc9607fe1b)
+
+
+##### [MungSquare_mini - BE_테스트 명세서](https://docs.google.com/spreadsheets/d/e/2PACX-1vSWoHA4nmU86HYttUlFMYSAqTCfjeqHoQ6vAlKPMWjt0p00xv-XVWKRyiy-sP5wllB-TiiIqHtplwGy/pubhtml?gid=925008306&single=true)
+
+---
+
+### 🌐 화면 정의서
+   <details>
+      <summary><b>Main Page</b></summary>
+      ![MungSquare_메인페이지](https://github.com/jahee24/Project_Mung_mini/blob/develop/images/MungSquare_%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.gif)
+   </details>
+   <details>
+      <summary><b>Log In/ Register</b></summary>
+     ![MungSquare_로그인/회원가입](https://github.com/jahee24/Project_Mung_mini/blob/develop/images/MungSquare_%EB%A1%9C%EA%B7%B8%EC%9D%B8_%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)
+ </details>
+   <details>
+      <summary><b>Branch Map Page</b></summary>
+     ![MungSquare_맵](https://github.com/jahee24/Project_Mung_mini/blob/develop/images/MungSquare_%EB%A7%B5.gif)
+ </details>
+   <details>
+      <summary><b>My Page</b></summary>
+      ![MungSquare_마이페이지](https://github.com/jahee24/Project_Mung_mini/blob/develop/images/MungSquare_%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80.gif)
+   </details>
+   <details>
+      <summary><b>Manager Page</b></summary>
+      ![MungSquare_관리자페이지](https://github.com/jahee24/Project_Mung_mini/blob/develop/images/MungSquare_Admin.gif)
+   </details>
+   <details>
+      <summary><b>Reservation Page</b></summary>
+      ![MungSquare_예약](https://github.com/jahee24/Project_Mung_mini/blob/develop/images/MungSquare_%EC%98%88%EC%95%BD.gif)
+   </details>
+   <details>
+      <summary><b>Payment Page</b></summary>
+     ![MungSquare_결제](https://github.com/jahee24/Project_Mung_mini/blob/develop/images/MungSquare_%EA%B2%B0%EC%A0%9C.gif)
+ </details>
+   <details>
+      <summary><b>Review Page</b></summary>
+      ![MungSquare_리뷰](https://github.com/jahee24/Project_Mung_mini/blob/develop/images/MungSquare_%EB%A6%AC%EB%B7%B0.gif)
+   </details>
+   <details>
+      <summary><b>FAQ Page</b></summary>
+      ![MungSquare_FAQ](https://github.com/jahee24/Project_Mung_mini/blob/develop/images/MungSquare_FAQ.gif)
+   </details>
+   <details>
+      <summary><b>Notice Page</b></summary>
+      ![MungSquare_Notice](https://github.com/jahee24/Project_Mung_mini/blob/develop/images/MungSquare_%EA%B2%8C%EC%8B%9C%ED%8C%90.gif)
+   </details>
+
+
 
 
 ## 🚀 빌드 및 배포 개요
