@@ -31,38 +31,54 @@ Docsker
 ---
 
 ### 📌 Architecture
+
+
 ![architecture](https://github.com/Docsker/Docsker_Build/blob/a587ed7639a0e0d0e6fcff9fb0b6a3c31a619fe9/public/architecture.png)
+
 
 ---
 
 ### 📌 ERD
+
+
 ![ERD](https://github.com/Docsker/Docsker_Build/blob/dbb7d05e58cdae1d25cc118f19909d4ab2874e6c/public/erd.png)
 
+
 ---
+
 
 ### 📋 서비스 기획서
 ![서비스 기획서](https://github.com/Docsker/Docsker_Build/blob/fe1e06a2f24e5245dc4546d0bcfd46366c37719a/public/BMC.png)
 
 ##### [서비스 기획서(Business Model Canvas) 자세히 보기](https://crystal-booth-585.notion.site/Business-Model-Canvas-V2-1a6877f01486805cb3fbddc31690d5c4)
 
+
 ---
+
 
 ### 📋 요구사항 정의서
 ![서비스 기획서](https://github.com/Docsker/Docsker_Build/blob/fe1e06a2f24e5245dc4546d0bcfd46366c37719a/public/BMC.png)
 
 ##### [서비스 기획서](https://crystal-booth-585.notion.site/Business-Model-Canvas-V2-1a6877f01486805cb3fbddc31690d5c4)
 
+
 ---
 
 ### 📋 스토리 보드
+
+
 ![유저 스토리](https://github.com/Docsker/Docsker_Build/blob/d0c6bd42f76805985a0f72278f0249d1a534f680/public/user_story.png)
 
-##### [스토리 보드(유저 스토리 정의서)](https://crystal-booth-585.notion.site/User-Story-V1-1ad877f014868051bce4d137b717ff64)
+##### [스토리 보드(유저 스토리 정의서) 자세히 보기](https://crystal-booth-585.notion.site/User-Story-V1-1ad877f014868051bce4d137b717ff64)
+
 
 ---
 
 ## ✅ WBS(Work Breakdown Structure)
+
+
 ![WBS](https://github.com/Docsker/Docsker_Build/blob/d0c6bd42f76805985a0f72278f0249d1a534f680/public/WBS.png)
+
 
 ---
 
