@@ -57,7 +57,9 @@ Docsker
 
 
 ### 📋 요구사항 정의서
-![서비스 기획서](https://github.com/Docsker/Docsker_Build/blob/fe1e06a2f24e5245dc4546d0bcfd46366c37719a/public/BMC.png기](https://crystal-booth-585.notion.site/Business-Model-Canvas-V2-1a6877f01486805cb3fbddc31690d5c4)
+![서비스 기획서](https://github.com/Docsker/Docsker_Build/blob/fe1e06a2f24e5245dc4546d0bcfd46366c37719a/public/BMC.png)
+
+##### [요구사항 정의서 자세히 보기](https://crystal-booth-585.notion.site/Business-Model-Canvas-V2-1a6877f01486805cb3fbddc31690d5c4)
 
 
 ---
@@ -97,7 +99,6 @@ Docsker
    <details>
       <summary><b>Tech Blog Page</b></summary>
       <img src="https://github.com/Docsker/Docsker_Build/blob/91243ef1e001bb87b8ebf6df853507c7f0707d86/public/register.png">
-      ![기술블로그페이지](https://github.com/Docsker/Docsker_Build/blob/91243ef1e001bb87b8ebf6df853507c7f0707d86/public/register.png)
    </details>
    <details>
       <summary><b>Today-Question Page</b></summary>
