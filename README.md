@@ -43,7 +43,7 @@ Docsker
 ### 📋 서비스 기획서
 ![서비스 기획서](https://github.com/Docsker/Docsker_Build/blob/fe1e06a2f24e5245dc4546d0bcfd46366c37719a/public/BMC.png)
 
-##### [서비스 기획서](https://crystal-booth-585.notion.site/Business-Model-Canvas-V2-1a6877f01486805cb3fbddc31690d5c4)
+##### [서비스 기획서(Business Model Canvas) 자세히 보기](https://crystal-booth-585.notion.site/Business-Model-Canvas-V2-1a6877f01486805cb3fbddc31690d5c4)
 
 ---
 
@@ -55,17 +55,14 @@ Docsker
 ---
 
 ### 📋 스토리 보드
-![서비스 기획서](https://github.com/Docsker/Docsker_Build/blob/fe1e06a2f24e5245dc4546d0bcfd46366c37719a/public/BMC.png)
+![유저 스토리](https://github.com/Docsker/Docsker_Build/blob/d0c6bd42f76805985a0f72278f0249d1a534f680/public/user_story.png)
 
-##### [스토리 보드](https://crystal-booth-585.notion.site/User-Story-V1-1ad877f014868051bce4d137b717ff64)
+##### [스토리 보드(유저 스토리 정의서)](https://crystal-booth-585.notion.site/User-Story-V1-1ad877f014868051bce4d137b717ff64)
 
 ---
 
 ## ✅ WBS(Work Breakdown Structure)
-![MungSquare_mini - BE_테스트 명세서-1](https://github.com/user-attachments/assets/af4ac3ee-f25f-4d21-b03a-5fcc9607fe1b)
-
-
-##### [MungSquare_mini - BE_테스트 명세서](https://docs.google.com/spreadsheets/d/e/2PACX-1vSWoHA4nmU86HYttUlFMYSAqTCfjeqHoQ6vAlKPMWjt0p00xv-XVWKRyiy-sP5wllB-TiiIqHtplwGy/pubhtml?gid=925008306&single=true)
+![WBS](https://github.com/Docsker/Docsker_Build/blob/d0c6bd42f76805985a0f72278f0249d1a534f680/public/WBS.png)
 
 ---
 
