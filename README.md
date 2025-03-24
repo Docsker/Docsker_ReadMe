@@ -30,8 +30,13 @@ Docsker
 
 ---
 
+### 📌 Architecture
+![architecture](https://github.com/Docsker/Docsker_Build/blob/a587ed7639a0e0d0e6fcff9fb0b6a3c31a619fe9/public/architecture.png)
+
+---
+
 ### 📌 ERD
-![ERD](https://github.com/Docsker/Docsker_Build/blob/a587ed7639a0e0d0e6fcff9fb0b6a3c31a619fe9/public/architecture.png)
+![ERD](https://github.com/Docsker/Docsker_Build/blob/dbb7d05e58cdae1d25cc118f19909d4ab2874e6c/public/erd.png)
 
 ---
 
