@@ -1,8 +1,40 @@
 ## 📝 개요
 
-getRand() {}; 는 MSA를 적용한 데이터 조회 및 통계 플랫폼입니다. 해당 플랫폼의 CI/CD를 구현하여 실제 서비스 배포와 같은 환경을 구축하였습니다.
+Docsker
 
 ---
+
+## 👥 팀원
+| 이름       | GitHub                                  |
+|------------|-----------------------------------------|
+| 장현진     | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/CoderJDan) |
+| 남궁일     | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/namgungil) |
+| 이상엽     | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/frenchfries0927) |
+| 이효재     | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/Alexandra) |
+| 윤성훈     | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/YunSHCode) |
+
+---
+
+## 🔧 기술 스택
+| 분야          | 기술 스택                |
+|---------------|--------------------------|
+| **Front-End** | <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DE1E?style=for-the-badge&logo=JavaScript&logoColor=white"> |
+| **Back-End**     | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&amp;logo=Java&amp;logoColor=white" alt="Java Badge"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&amp;logo=Spring&amp;logoColor=white" alt="Spring Badge" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=MySQL&logoColor=white"/> |
+
+---
+
+## 🛠️ 개발 도구
+| IDE          | 버전 관리                |
+|---------------|--------------------------|
+| <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> | <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&amp;logo=Github&amp;logoColor=white" alt="Github Badge" /> |
+
+---
+
+### 📌 ERD
+![ERD_proj_mung](https://github.com/user-attachments/assets/3ad41c78-b320-4486-aa43-021fd83f2345)
+
+---
+
 
 ## 🚀 빌드 및 배포 개요
 
