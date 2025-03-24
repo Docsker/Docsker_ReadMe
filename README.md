@@ -31,7 +31,7 @@ Docsker
 ---
 
 ### 📌 ERD
-![ERD_proj_mung](https://github.com/user-attachments/assets/3ad41c78-b320-4486-aa43-021fd83f2345)
+![ERD](https://github.com/Docsker/Docsker_Build/blob/a587ed7639a0e0d0e6fcff9fb0b6a3c31a619fe9/public/architecture.png)
 
 ---
 
