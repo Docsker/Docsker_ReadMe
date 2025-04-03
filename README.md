@@ -57,7 +57,7 @@ Docsker
 
 
 ### 📋 요구사항 정의서
-![서비스 기획서](https://github.com/Docsker/Docsker_Build/blob/fe1e06a2f24e5245dc4546d0bcfd46366c37719a/public/BMC.png)
+![서비스 기획서](https://github.com/Docsker/Docsker_Build/blob/fe1e06a2f24e5245dc4546d0bcfd46366c37719a/public/요구사항 정의서.PNG)
 
 ##### [요구사항 정의서 자세히 보기](https://button-makeup-c71.notion.site/1cae7509b2d38005b897ee62727918fc)
 
@@ -74,16 +74,17 @@ Docsker
 
 ---
 
+
 ### 📋 테스트 계획서
 
 
-![유저 스토리](https://github.com/Docsker/Docsker_Build/blob/d0c6bd42f76805985a0f72278f0249d1a534f680/public/user_story.png)
+![유저 스토리](https://github.com/Docsker/Docsker_Build/blob/d0c6bd42f76805985a0f72278f0249d1a534f680/public/테스트 계획서.PNG)
 
 ##### [테스트 계획서 자세히 보기](https://button-makeup-c71.notion.site/1cae7509b2d38073805ae048ca48efd1)
 
 
 ---
-https://button-makeup-c71.notion.site/1cae7509b2d38073805ae048ca48efd1
+
 
 ## ✅ WBS(Work Breakdown Structure)
 
