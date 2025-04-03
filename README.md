@@ -57,9 +57,18 @@ Docsker
 
 
 ### 📋 요구사항 정의서
-![서비스 기획서](https://github.com/Docsker/Docsker_ReadMe/blob/main/public/Requirement.png)
+![요구사항 정의서](https://github.com/Docsker/Docsker_ReadMe/blob/main/public/Requirement.png)
 
 ##### [요구사항 정의서 자세히 보기](https://button-makeup-c71.notion.site/1cae7509b2d38005b897ee62727918fc)
+
+
+---
+
+
+### 📋 요구사항 명세서
+![요구사항 명세서](https://github.com/Docsker/Docsker_ReadMe/blob/main/public/api.png)
+
+##### [요구사항 명세서 자세히 보기](https://button-makeup-c71.notion.site/1cae7509b2d38005b897ee62727918fc)
 
 
 ---
@@ -78,7 +87,7 @@ Docsker
 ### 📋 테스트 계획서
 
 
-![유저 스토리](https://github.com/Docsker/Docsker_ReadMe/blob/main/public/test.png)
+![테스트 계획서](https://github.com/Docsker/Docsker_ReadMe/blob/main/public/test.png)
 
 ##### [테스트 계획서 자세히 보기](https://button-makeup-c71.notion.site/1cae7509b2d38073805ae048ca48efd1)
 
