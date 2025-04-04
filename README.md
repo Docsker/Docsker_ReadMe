@@ -66,9 +66,9 @@ Docsker
 
 
 ### 📋 요구사항 명세서
-![요구사항 명세서](https://github.com/Docsker/Docsker_ReadMe/blob/main/public/api.png)
+![요구사항 명세서](https://github.com/Docsker/Docsker_ReadMe/blob/main/public/api.PNG)
 
-##### [요구사항 명세서 자세히 보기](https://button-makeup-c71.notion.site/1cae7509b2d38005b897ee62727918fc)
+##### [요구사항 명세서 자세히 보기](https://www.notion.so/RESTful-API-Protocol-1af877f01486804f93f7f163616754c0)
 
 
 ---
